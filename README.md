@@ -5,7 +5,7 @@ Get free access to VPS/RDP servers using VPSGEN. This service is provided free o
 <h2>We Need Your Help!</h2>
 Providing this service for free is only beacuase of you donations. We want your kind help to keep running this service forever. You can donate us at the following LINK:-
 <br>
-` https://www.buymeacoffee.com/xBugLab `
+`https://www.buymeacoffee.com/xBugLab`
 </br>
 <h2>Available VPS Providers</h2>
 
@@ -22,4 +22,4 @@ This service is 100% dependent on donations we recieve from our users. We buy Tr
 <img src="https://github.com/xBugLab/VPS-GEN/blob/main/VPSGEN%20-%20FREE%20RDP.PNG?raw=true" alt="VPSGEN-FREE-RDP" border="0" width=100%>
 
 <h2>DOWNLOAD</h2>
-` DOWNLOAD FROM PACKAGES `
+`DOWNLOAD FROM PACKAGES`
