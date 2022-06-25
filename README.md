@@ -23,3 +23,6 @@ This service is 100% dependent on donations we recieve from our users. We buy Tr
 
 <h2>DOWNLOAD</h2>
 DOWNLOAD FROM PACKAGES
+
+<h2>DISCLAIMER</h2>
+VPS provided by us are not for cryptocurrency mining! If a user is found mining on the VPS, he will be banned from the server in no time!
