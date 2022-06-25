@@ -13,3 +13,8 @@ https://www.buymeacoffee.com/xBugLab
 - Oracle Cloud
 - Heroku
 - Google Cloud will be added soon in version. 1.0.2
+
+<h2>Free, But How?</h2>
+You may be asking how it is possible to provide VPS servers for free usage?
+
+This service is 100% dependent on donations we recieve from our users. Then we buy Trial accounts in Bulk from fiverr.com. This allows us to use free credits to create VPS servers and we provide these servers for granted!
