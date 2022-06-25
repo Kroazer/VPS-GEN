@@ -14,6 +14,7 @@ https://www.buymeacoffee.com/xBugLab
 - Heroku
 - Google Cloud will be added soon in version. 1.0.2
 <h2>Use Cases</h2>
+
 - Software Development
 - Video Editing
 - Gaming!
