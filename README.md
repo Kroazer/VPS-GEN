@@ -13,7 +13,11 @@ https://www.buymeacoffee.com/xBugLab
 - Oracle Cloud
 - Heroku
 - Google Cloud will be added soon in version. 1.0.2
-
+<h2>Use Cases</h2>
+- Software Development
+- Video Editing
+- Gaming!
+- Anything else that you can imagine (Cryptocurrency Mining and Hacking Excluded)
 <h2>Free, But How?</h2>
 You may be asking how it is possible to provide VPS servers for free usage?
 <br>
