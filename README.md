@@ -8,6 +8,7 @@ Providing this service for free is only beacuase of you donations. We want your 
 https://www.buymeacoffee.com/xBugLab
 </br>
 <h2>Available VPS Providers</h2>
+
 - Microsoft Azure
 - Oracle Cloud
 - Heroku
