@@ -19,4 +19,4 @@ You may be asking how it is possible to provide VPS servers for free usage?
 <br>
 This service is 100% dependent on donations we recieve from our users. We buy Trial accounts of VPS Providers in Bulk from fiverr from the money that we recieve from donations. This allows us to use free credits to create VPS servers and we provide these servers for granted!
 <hr>
-<img src="https://i.ibb.co/5vbkHLw/VPSGEN-FREE-RDP.png" alt="VPSGEN-FREE-RDP" border="0" width=100%>
+<img src="https://github.com/xBugLab/VPS-GEN/blob/main/VPSGEN%20-%20FREE%20RDP.PNG?raw=true" alt="VPSGEN-FREE-RDP" border="0" width=100%>
